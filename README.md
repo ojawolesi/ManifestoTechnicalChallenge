@@ -30,3 +30,13 @@ operations including balance inquiries and cash withdrawals.
 
 # Task 3
 User Story
+
+## About this task
+For this task I was give the option of choosing one of five business requirements mention in the [Technical Challenge brief](https://github.com/ojawolesi/ManifestoTechnicalChallenge/blob/master/Technical%20test%20-%20full%20stack.docx%20(9)%20(2).pdf).
+
+## User Story
+
+The core business requirement I have chosen is:
+* The customer cannot withdraw more funds then they have access to.
+
+As a bank customer, I would want to be stopped from withdrawing more funds than are available in my account. This is so that, I do not enter an unwarranted overdraft.
