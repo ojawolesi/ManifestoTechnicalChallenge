@@ -1,7 +1,14 @@
 # Manifesto Technical Challenge
-Tasks 1-3  of Manifesto Full-Stack Technical Challenge
 
-#Task 1
+# Task 1
+HTML and CSS
+
+## About this task
+In this task, there was the option to choose one of fifteen [Josef Müller-Brockmann](https://en.wikipedia.org/wiki/Josef_M%C3%BCller-Brockmann) designs using HTML and CSS. I chose his design poster For The Zurich Tonhalle 1951. Müller-Brockmann was a Swiss graphic designer who pioneered the International Typographic Style.
+
+[Zurich Tonhalle (1951)]() |  [Musica Viva (1959)]()
+:-------------------------:|:-------------------------:
+!["Musica Viva" poster from 1959 in its web version](screenshots/musica-viva-1959.png)  |  !["Musica Viva" poster from 1961 in its web version](screenshots/musica-viva-1961.png)
 
 # Task 2
 An Automated Teller Machine (ATM) Command Line Interface (CLI) application developed in Java. 
@@ -11,7 +18,7 @@ An Automated Teller Machine (ATM) Command Line Interface (CLI) application devel
 $ cd <directory>
 $ git clone https://https://github.com/ojawolesi/ManifestoTechnicalChallenge.git
 # run
-$ java -jar ManifestoTechnicalChallenge/target/ManifestoTechnicalChallenge-1.0-SNAPSHOT.jar <filepath>
+$ java -jar ManifestoTechnicalChallenge/task2/target/ManifestoTechnicalChallenge-1.0-SNAPSHOT.jar <filepath>
 ```
 
 ## How It Works
