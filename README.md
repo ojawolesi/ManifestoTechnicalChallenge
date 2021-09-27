@@ -4,7 +4,7 @@
 HTML and CSS
 
 ## About this task
-In this task, there was the option to choose one of fifteen [Josef Müller-Brockmann](https://en.wikipedia.org/wiki/Josef_M%C3%BCller-Brockmann) designs using HTML and CSS. I chose his design poster For The Zurich Tonhalle 1957. Müller-Brockmann was a Swiss graphic designer who pioneered the International Typographic Style.
+In this task, there was the option to choose one of fifteen [Josef Müller-Brockmann](https://en.wikipedia.org/wiki/Josef_M%C3%BCller-Brockmann) designs using HTML and CSS. I chose his design poster For The Zurich Tonhalle 1957 and Musica Viva 1959. Müller-Brockmann was a Swiss graphic designer who pioneered the International Typographic Style.
 
 [Zurich Tonhalle (1957)]() |  [Musica Viva (1959)]()
 :-------------------------:|:-------------------------:
