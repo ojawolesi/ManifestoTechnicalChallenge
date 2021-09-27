@@ -27,3 +27,6 @@ The program is a command line application. In order to input entries  for the AT
 
 The main function loops through the files line-by-line to validate customer account details and perform basic
 operations including balance inquiries and cash withdrawals.
+
+# Task 3
+User Story
