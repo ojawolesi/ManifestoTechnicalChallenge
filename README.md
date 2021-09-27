@@ -4,11 +4,11 @@
 HTML and CSS
 
 ## About this task
-In this task, there was the option to choose one of fifteen [Josef Müller-Brockmann](https://en.wikipedia.org/wiki/Josef_M%C3%BCller-Brockmann) designs using HTML and CSS. I chose his design poster For The Zurich Tonhalle 1951. Müller-Brockmann was a Swiss graphic designer who pioneered the International Typographic Style.
+In this task, there was the option to choose one of fifteen [Josef Müller-Brockmann](https://en.wikipedia.org/wiki/Josef_M%C3%BCller-Brockmann) designs using HTML and CSS. I chose his design poster For The Zurich Tonhalle 1957. Müller-Brockmann was a Swiss graphic designer who pioneered the International Typographic Style.
 
-[Zurich Tonhalle (1951)]() |  [Musica Viva (1959)]()
+[Zurich Tonhalle (1957)]() |  [Musica Viva (1959)]()
 :-------------------------:|:-------------------------:
-!["Musica Viva" poster from 1959 in its web version](screenshots/musica-viva-1959.png)  |  !["Musica Viva" poster from 1961 in its web version](screenshots/musica-viva-1961.png)
+![Zurich Tonhalle poster](https://github.com/ojawolesi/ManifestoTechnicalChallenge/blob/master/task1/Extra-konzert%20on%20Flickr%20-%20Photo%20Sharing!.jpg)  |  ![Musica Viva poster](https://github.com/ojawolesi/ManifestoTechnicalChallenge/blob/master/task1/Musica%20Viva%20Kleiner%20Tonhallesaal%20-%201959%20on%20Flickr%20-%20Photo%20Sharing!.jpg)
 
 # Task 2
 An Automated Teller Machine (ATM) Command Line Interface (CLI) application developed in Java. 
