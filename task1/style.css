@@ -1,0 +1,133 @@
+body, html {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+h1,
+h2,
+h3,
+ul,
+li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-transform: lowercase;
+    font-weight: 500;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+p
+{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-transform: lowercase;
+    font-weight: 500;
+
+}
+
+body {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    letter-spacing: -0.02em;
+    line-height: 1.2;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+}
+
+.leftpane {
+    width: 5%;
+    height: 100%;
+    float: left;
+    background-color: #ebb827;
+    border-collapse: collapse;
+}
+
+.middlepane {
+    width: 60%;
+    height: 100%;
+    float: left;
+    background-color: #485814;
+    border-collapse: collapse;
+}
+
+.rightpane {
+    width: 35%;
+    height: 100%;
+    position: relative;
+    float: right;
+    background-color: #264f8e;
+    border-collapse: collapse;
+}
+
+.green {
+    padding-left: 1%;
+    width: 58%;
+    position: absolute;
+    top: 40%;
+    display: grid;
+    /*grid-template-columns: max-content 1fr;*/
+    grid-gap: 0px 18px;
+    align-self: self-end;
+    /*grid-gap: 55px;*/
+    /*grid-template-rows: 1fr 1fr 1fr 1fr;*/
+}
+
+
+.green p{
+    grid-column: 2;
+    text-align: right;
+    align-self: self-end;
+}
+
+.blue {
+    padding-left: 1%;
+    position: absolute;
+    top: 40%;
+    display: grid;
+
+    /*grid-gap: 55px;*/
+    /*grid-template-rows: 1fr 1fr 1fr 1fr;*/
+}
+
+.blue p{
+    font-weight: normal;
+}
+
+.green-item-1 {
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: xx-large;
+
+    /*grid-row: 1 / span 4;*/
+}
+
+.green-item-2, .green-item-3, .green-item-4, .green-item-5 {
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    align-self: self-end;
+    text-align: right;
+    grid-column: 4 / 5;
+    /*float: right;*/
+    /*grid-area: right;*/
+}
+
+.blue-item-1, .blue-item-2, .blue-item-3, .blue-item-4 {
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: xx-large;
+    /*align-self: end;*/
+    /*float: right;*/
+    /*grid-area: right;*/
+
+}
